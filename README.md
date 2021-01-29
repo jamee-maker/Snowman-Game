@@ -66,7 +66,7 @@ Resources used:
   <li>https://www.javascripttutorial.net/array/javascript-remove-duplicates-from-array/</li>
   </ul>
   
-  Special thanks to Olga Peschansky, Myra Smith, Hady Mohamed, and Jimmy Byess. You were all so helpful and I appreciate it!
+  Special thanks to Olga Peschansky, Myra Smith, and Jimmy Byess. You were all so helpful and I really appreciate it!
   
   Link to my Trello Board: https://trello.com/b/hoPEBVEi/snowman
   
