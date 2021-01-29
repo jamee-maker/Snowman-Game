@@ -64,6 +64,13 @@ Resources used:
   <li>https://nostarch.com/download/JS4K_ch7.pdf</li>
   <li>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf</li>
   <li>https://www.javascripttutorial.net/array/javascript-remove-duplicates-from-array/</li>
+  </ul>
+  
+  Special thanks to Olga Peschansky, Myra Smith, Hady Mohamed, and Jimmy Byess. You were all so helpful and I appreciate it!
+  
+  Link to my Trello Board: https://trello.com/b/hoPEBVEi/snowman
+  
+  
   
   
 
