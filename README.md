@@ -34,7 +34,7 @@ I solved the problem by first creating an array containing an object as an eleme
 
 
 
-<img src="Assets/guessed pic.png" width="700" height="200">
+<img src="Assets/guessed  pic.png" width="700" height="200">
 
 </div>
 
