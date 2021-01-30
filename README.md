@@ -27,7 +27,7 @@ This is a command-line game of Hangman. The computer picks a word at random, and
 
 <div>
   
-This was the second application I ever created. This one was a whole lot harder! It required less creativity and more logical reasoning. I spent an awful amount of time rearranging my code and making sure that everything made sense because I am the type of person that likes to understand everything I'm doing down to a T. There were many challenging problems to solve and things to consider. One of them, was figuring out how I was going to show the user the guesses they had already guessed.
+This was the second application I ever created. This one was a whole lot harder! It required less creativity and more logical reasoning. I spent an awful amount of time rearranging my code and making sure that everything made sense. There were many challenging problems to solve and things to consider. One of them, was figuring out how I was going to show the user the guesses they had already guessed.
 
 I solved the problem by first creating an array containing an object as an element:
 
